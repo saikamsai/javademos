@@ -12,7 +12,8 @@ public class primitivevariables {
 		System.out.println(x);
 			
 		short minShortvalue=Short.MIN_VALUE;
-		short maxShortvalue=Short.MAX_VALUE;			System.out.println("min short : " + minShortvalue);
+		short maxShortvalue=Short.MAX_VALUE;			
+		System.out.println("min short : " + minShortvalue);
 		System.out.println("max short: " + Short.MAX_VALUE);
 			
 		short y= 32767;
@@ -21,7 +22,8 @@ public class primitivevariables {
 		System.out.println("min int: "+ Integer.MIN_VALUE);
 		System.out.println("max int: "+ Integer.MAX_VALUE);
 			
-		System.out.println("min long: "+ Long.MIN_VALUE);			System.out.println("max long: "+ Long.MAX_VALUE);
+		System.out.println("min long: "+ Long.MIN_VALUE);			
+		System.out.println("max long: "+ Long.MAX_VALUE);
 
 	}
 
