@@ -1,6 +1,6 @@
 package sample;
 
-public class primitivevariables {
+public class S3primitivevariables {
 
 	public static void main(String[] args) {
 		byte minBytevalue= Byte.MIN_VALUE;

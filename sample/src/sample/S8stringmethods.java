@@ -1,6 +1,6 @@
 package sample;
 
-public class stringmethods {
+public class S8stringmethods {
 
 	public static void main(String[] args) {
 		String s = "hello world";

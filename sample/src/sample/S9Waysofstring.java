@@ -1,6 +1,6 @@
 package sample;
 
-public class Waysofstring {
+public class S9Waysofstring {
 
 	public static void main(String[] args) {
 		

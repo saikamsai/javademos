@@ -1,6 +1,6 @@
 package sample;
 
-public class charAndBooleans {
+public class S6charAndBooleans {
 
 	public static void main(String[] args) {
 		

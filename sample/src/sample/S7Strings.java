@@ -1,6 +1,6 @@
 package sample;
 
-public class Strings {
+public class S7Strings {
 
 	public static void main(String[] args) {
 		String name="This is Saikam Saiswetha Reddy";

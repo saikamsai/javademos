@@ -1,6 +1,6 @@
 package sample;
 
-public class floatAndDouble {
+public class S5floatAndDouble {
 
 	public static void main(String[] args) {
 		System.out.println("min float value: " + Float.MIN_VALUE);

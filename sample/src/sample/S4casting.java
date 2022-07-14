@@ -1,6 +1,6 @@
 package sample;
 
-public class casting {
+public class S4casting {
 
 	public static void main(String[] args) {
 		
