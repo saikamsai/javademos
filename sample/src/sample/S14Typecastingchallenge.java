@@ -8,12 +8,12 @@ public class S14Typecastingchallenge {
 		
 		//covert the string input above into appropriate primitive type
 		
-	/*	byte mybyte =Byte.parseByte(input);
+		byte mybyte =Byte.parseByte(input);
 		System.out.println("Byte val= "+mybyte);
 		
 		int myint=Integer.parseInt(input);
 		System.out.println("Integer val ="+myint);
-		*/
+		
 		Double d=Double.parseDouble(input);
 		System.out.println("double: "+d);
 		
