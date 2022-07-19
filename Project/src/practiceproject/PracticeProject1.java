@@ -1,5 +1,5 @@
 package practiceproject;
-public class typeCasting {
+public class PracticeProject1 {
 
 	public static void main(String[] args) {
 		
