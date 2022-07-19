@@ -1,7 +1,13 @@
 package nonstaticcontext;
 
 public class NonStaticVarDemo {
+	static int y=10;
+	//non-static variable
+	//instance variable
 int num;
+static{
+	System.out.println("inside static block");
+}
 {
 	System.out.println("inside non static block");
 }
