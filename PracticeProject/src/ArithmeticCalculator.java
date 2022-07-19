@@ -13,9 +13,9 @@ public class ArithmeticCalculator {
      do {
 		
 		//Arithmetic operator to perform
-		System.out.println("Arithmetic operators: \n1. Addition(+)\n2. Subtraction(-)\n3. Multiplication(*)\n4. Division(/)\n5. Exit");
-		System.out.println(" ");
-		System.out.println("Enter the option to perform Arithmetic operation: ");
+System.out.println("operators: \n1. Add(+)\n2. Subtract(-)\n3. Multiplication(*)\n4. Division(/)\n5. Exit");
+System.out.println(" ");
+System.out.println("Enter the option to perform Arithmetic operation: ");
 		
 		//reading the input choice
 		option= sc.next().charAt(0);
